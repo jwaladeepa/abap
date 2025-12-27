@@ -1,4 +1,4 @@
-@AbapCatalog.sqlViewName: 'ZTESTTTTT12'
+@AbapCatalog.sqlViewName: 'ZTESTTTTT1'
 @AccessControl.authorizationCheck: #CHECK
 @EndUserText.label: 'Sales Order Header CDS View'
 
@@ -8,4 +8,3 @@ define view ZTESTTTTT
 
   key carrier_id 
 }
-
